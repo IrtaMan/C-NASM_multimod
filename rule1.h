@@ -1,0 +1,1 @@
+void rule1(char *Text, int textSize);
